@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin1HW3</string>
+    <string name="image_view_for_sheep">image view for sheep</string>
+    <string name="send">Send</string>
+</resources>
